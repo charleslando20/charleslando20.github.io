@@ -1,0 +1,42 @@
+.ola{
+    justify-content: space-between;
+    background-color:#9cb481;
+    font-weight: 600;
+    font-size: xx-large;
+    padding: 20px;
+    align-items: center;
+    
+}
+
+.a{
+    text-decoration: none;
+    color: #fff ;
+    font-weight: 600;
+    padding-right: 25px;
+}
+
+.header{
+    text-align: center;
+}
+
+.fn{
+    width: 350px;
+}
+.wa{
+    width: 200px;
+    background-position: center ;
+    
+}
+.you{
+    width: 200px;
+    background-position: center ;
+}
+.pro{
+    background-image: url(bio.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 8cm; 
+    background-position: center;
+    background-color: #f5f1f1;
+    
+}

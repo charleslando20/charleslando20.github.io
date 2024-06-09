@@ -1,0 +1,117 @@
+body h1{
+    color: rgb(105, 146, 58);
+    background-image: url(bio.jpg);
+    margin: 0;
+    text-align: center;
+    font-size: 10mm;
+    width: 100%;
+    height: 8cm;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #f5f1f1;
+}
+
+
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+nav {
+    background-color: #9cb481;
+    color: #000000;
+    padding: 10px 20px;
+    background-position: center;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li {
+    display: inline;
+    margin-right: 20px;
+}
+a {
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+
+.column1 {
+   background-color: #bbe987;
+   text-align: center;
+   
+}
+#hist{
+    color: #164404;
+    text-align: center;
+    font-size: 15mm;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.column2 {
+    background-color: #b1f069;
+    text-align: center;
+ }
+ #per{
+    color: #164404;
+    text-align: center;
+    font-size: 10mm;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+ 
+ #sin{
+    color: #164404;
+    text-align: center;
+    font-size: 15mm;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.imagenes{
+    text-align: left;
+    list-style-type: none;
+    display: contents;
+    color: #000000;
+    font-size: 5mm;
+    font-family:cursive;
+}
+.perymg{
+    background-color: #c2f883;
+    width: 50%;
+    height: 50%;
+    float: center;
+    margin: 0.5%;
+    display: block;
+}
+#princesa{
+    width: 10cm;
+    height: 8cm;
+}
+#jya{
+    width: 10cm;
+    height: 10cm;
+}
+.redes{
+    width: 20px;
+    height: 20px;
+}
+
+video{
+    width: 320;
+    height: 240;
+}
+h2:hover{
+    color: aqua;
+}
+a:hover{
+    color: #9cb481;
+}
+.ins{
+    width: 8cm;
+    left: 8cm;
+}
